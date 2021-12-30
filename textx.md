@@ -1,3 +1,4 @@
+TEXTS
 Neck rotation
 Owls can turn their nekcs 135 degrees both right and left which gives the total of 270 deg not as some people say that they can rotate their necks 360 degrees.
 
